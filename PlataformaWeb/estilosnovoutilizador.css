@@ -1,0 +1,30 @@
+logout{
+		position: absolute;
+
+		}
+		
+h1{
+font-family:arial;
+}
+
+#guardar{
+		position:absolute;
+		right:160px;
+		}
+
+		
+#reset{
+	position:absolute;
+	right:95px;
+	
+}
+
+#cancelar{
+	position:absolute;
+	right:10px;
+}
+
+#body{
+	font-family:arial;
+	padding-right:10px;
+}
